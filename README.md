@@ -1,5 +1,5 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=FRIDA2911/Caracterizacion-de-parametros-en-cepas-de-la-levadura-de-Kluyveromyces-marxianus)
-# Caracterización de párametros en cepas de la levadura de Kluyveromyces marxianus
+# Caracterización de parámetros en cepas de la levadura de Kluyveromyces marxianus
 # Autor 
 Frida Daniela Mendivil Ramirez
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l20211983@tectijuana.edu.mx
