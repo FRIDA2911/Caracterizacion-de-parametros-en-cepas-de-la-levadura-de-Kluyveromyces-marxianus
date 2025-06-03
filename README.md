@@ -1,3 +1,4 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=FRIDA2911/Caracterizacion-de-parametros-en-cepas-de-la-levadura-de-Kluyveromyces-marxianus)
 # Caracterización de párametros en cepas de la levadura de Kluyveromyces marxianus
 # Autor 
 Frida Daniela Mendivil Ramirez
@@ -13,7 +14,7 @@ Los resultados mostraron que el modelo bifásico permitió estimar con precisió
 Este estudio contribuye al entendimiento del comportamiento dinámico de K. marxianus y proporciona herramientas útiles para optimizar procesos fermentativos. Además, destaca la utilidad del modelado matemático para reducir la experimentación física, facilitando la simulación in silico y el diseño eficiente de bioprocesos industriales.
 
 # Palabras clave: 
-crecimiento microbiano; ecuaciones diferenciales; Kluyveromyces marxianus; modelado in silico; procesos fermentativos; regresión no lineal; tasas cinéticas.
+Biomasa; Crecimiento sigmoidal; Regresión no lineal; Tasa de crecimiento; Tasa de muerte.
 # Objetivo general:
 Estimar las tasas de crecimiento y muerte a partir de los datos experimentales registrados en cinco cepas de la levadura kluyveromyces marxianus.
 
