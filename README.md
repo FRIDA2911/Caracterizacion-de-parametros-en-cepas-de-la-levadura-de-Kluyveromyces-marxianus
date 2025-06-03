@@ -1,4 +1,4 @@
-# Caracterización de parametros en cepas de la levadura de Kluyveromyces marxianus
+# Caracterización de párametros en cepas de la levadura de Kluyveromyces marxianus
 # Autor 
 Frida Daniela Mendivil Ramirez
 Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l20211983@tectijuana.edu.mx
